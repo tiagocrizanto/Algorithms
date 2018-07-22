@@ -1,7 +1,7 @@
 # Algoritmos
 Projetos com algoritmos diversos
-  - Contar nós em uma árvore binária
+  - Count vertices in a binary tree
   - Fibonacci
-  - Multiplicação de matrizes
+  - Matrix multiplication
   - Dijkstra
   - Palindrome
