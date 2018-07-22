@@ -1,5 +1,5 @@
 # Algoritmos
-Projetos com algoritmos diversos
+Basics algorithms written in C#
   - Count vertices in a binary tree
   - Fibonacci
   - Matrix multiplication
