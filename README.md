@@ -5,3 +5,4 @@ Basics algorithms written in C#
   - Matrix multiplication
   - Dijkstra
   - Palindrome
+  - BubbleSort
