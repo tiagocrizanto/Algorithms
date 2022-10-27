@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTree", "BinaryTree\Bi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixMultiplication", "MatrixMultiplication\MatrixMultiplication.csproj", "{F114A96F-3807-450C-B6F3-F8DC8043163E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{59261366-1159-4CD2-81A3-C3632F9B3239}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F114A96F-3807-450C-B6F3-F8DC8043163E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F114A96F-3807-450C-B6F3-F8DC8043163E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F114A96F-3807-450C-B6F3-F8DC8043163E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59261366-1159-4CD2-81A3-C3632F9B3239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59261366-1159-4CD2-81A3-C3632F9B3239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59261366-1159-4CD2-81A3-C3632F9B3239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59261366-1159-4CD2-81A3-C3632F9B3239}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
