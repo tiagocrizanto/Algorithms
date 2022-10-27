@@ -1,17 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2042
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{914D2B29-FCEC-41C9-814E-D04248392E33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{914D2B29-FCEC-41C9-814E-D04248392E33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArvoreBinaria", "ArvoreBinaria\ArvoreBinaria.csproj", "{F8B36DF8-938B-4017-B4CC-FECA5299A356}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dijkstra", "Dijkstra\Dijkstra.csproj", "{1694EB65-0F3E-47CE-924E-C013ABF25D6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicacaoMatrizes", "MultiplicacaoMatrizes\MultiplicacaoMatrizes.csproj", "{30979A0D-5E33-42A3-B164-056B30CDA0A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{0BCACF09-239B-4220-B5FC-BD129B504B1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijkstra", "Dijkstra\Dijkstra.csproj", "{1694EB65-0F3E-47CE-924E-C013ABF25D6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{2F6372E9-574D-4725-BEE0-EB32BB9AF54F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{0BCACF09-239B-4220-B5FC-BD129B504B1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixMultiplication", "MatrixMultiplication\MatrixMultiplication.csproj", "{F114A96F-3807-450C-B6F3-F8DC8043163E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,14 +23,6 @@ Global
 		{914D2B29-FCEC-41C9-814E-D04248392E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{914D2B29-FCEC-41C9-814E-D04248392E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{914D2B29-FCEC-41C9-814E-D04248392E33}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F8B36DF8-938B-4017-B4CC-FECA5299A356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F8B36DF8-938B-4017-B4CC-FECA5299A356}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F8B36DF8-938B-4017-B4CC-FECA5299A356}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F8B36DF8-938B-4017-B4CC-FECA5299A356}.Release|Any CPU.Build.0 = Release|Any CPU
-		{30979A0D-5E33-42A3-B164-056B30CDA0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{30979A0D-5E33-42A3-B164-056B30CDA0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{30979A0D-5E33-42A3-B164-056B30CDA0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{30979A0D-5E33-42A3-B164-056B30CDA0A2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1694EB65-0F3E-47CE-924E-C013ABF25D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1694EB65-0F3E-47CE-924E-C013ABF25D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1694EB65-0F3E-47CE-924E-C013ABF25D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +31,14 @@ Global
 		{0BCACF09-239B-4220-B5FC-BD129B504B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BCACF09-239B-4220-B5FC-BD129B504B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BCACF09-239B-4220-B5FC-BD129B504B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6372E9-574D-4725-BEE0-EB32BB9AF54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6372E9-574D-4725-BEE0-EB32BB9AF54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6372E9-574D-4725-BEE0-EB32BB9AF54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6372E9-574D-4725-BEE0-EB32BB9AF54F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F114A96F-3807-450C-B6F3-F8DC8043163E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F114A96F-3807-450C-B6F3-F8DC8043163E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F114A96F-3807-450C-B6F3-F8DC8043163E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F114A96F-3807-450C-B6F3-F8DC8043163E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
