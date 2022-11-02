@@ -10,7 +10,7 @@ static void BubbleSort(int[] inputArray)
 	for (int i = inputArray.Length - 1; i > 0; i--)
 	{
         // this variable prevents loop through the entire array if the input array is ordered.
-        var changes = 0;
+        var changed = false;
 
 		for (int j = 0; j < i; j++)
 		{
@@ -18,11 +18,11 @@ static void BubbleSort(int[] inputArray)
 			{
                 // swap array position
                 (inputArray[j], inputArray[j + 1]) = (inputArray[j + 1], inputArray[j]);
-				changes++;
+                changed = true;
 			}
 		}
 
-        if (changes < 1) break;
+        if (!changed) break;
     }
 
     Console.WriteLine($"Output array {string.Join(",", inputArray)}");
