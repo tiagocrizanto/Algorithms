@@ -6,3 +6,6 @@ Basics algorithms written in C#
   - Dijkstra
   - Palindrome
   - BubbleSort
+  - Insertion Sort
+  - Mix / Max value in an array
+  - Selection Sort
