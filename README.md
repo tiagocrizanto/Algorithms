@@ -9,3 +9,4 @@ Basics algorithms written in C#
   - Insertion Sort
   - Mix / Max value in an array
   - Selection Sort
+  - QuickSort
